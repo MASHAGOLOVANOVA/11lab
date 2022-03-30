@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\obj\Debug\netcoreapp3.1\laba11csharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\obj\Debug\netcoreapp3.1\laba11csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\obj\Debug\netcoreapp3.1\laba11csharp.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\obj\Debug\netcoreapp3.1\laba11csharp.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\obj\Debug\netcoreapp3.1\laba11csharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\bin\Debug\netcoreapp3.1\laba11csharp.exe
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\bin\Debug\netcoreapp3.1\laba11csharp.deps.json
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\bin\Debug\netcoreapp3.1\laba11csharp.runtimeconfig.json
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\bin\Debug\netcoreapp3.1\laba11csharp.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\bin\Debug\netcoreapp3.1\laba11csharp.dll
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\bin\Debug\netcoreapp3.1\laba11csharp.pdb
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\obj\Debug\netcoreapp3.1\laba11csharp.dll
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\obj\Debug\netcoreapp3.1\laba11csharp.pdb
+C:\Users\lenovo\source\repos\laba11csharp\laba11csharp\obj\Debug\netcoreapp3.1\laba11csharp.genruntimeconfig.cache
